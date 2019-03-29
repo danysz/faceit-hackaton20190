@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceIt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_camera_surface_view">CameraSurfaceView</string>
+</resources>
